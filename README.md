@@ -1,1 +1,1 @@
-App to tell the pitch in mic
+App to tell the pitch in microphone
